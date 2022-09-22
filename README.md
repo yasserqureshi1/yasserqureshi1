@@ -8,12 +8,15 @@
 ==============================================================================================================================
 
 
-* 👨‍💻 PhD Student @ University of Warwick
+* 👨‍🎓 PhD Student @ University of Warwick
+* 💼 Previously interned at IBM and Barclays
 * 🦟 Interested in applying AI/ML to mosquito trajectories to understand their behaviours
-* 🌍  I'm based in United Kingdom
+* 🌍  I'm based in the United Kingdom
 * 🖥️  See my website [here](http://yasserqureshi1.github.io/me/)
 
-<iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm"></a></p>
+<p align="center">
+  <img src="https://c.tenor.com/CmcZWZuvMxoAAAAd/typing-monkey.gif" />
+</p>
 
 
 <b>My GitHub Stats</b>
